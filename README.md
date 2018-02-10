@@ -6,3 +6,5 @@ Small Ruby problems and their solution, given by San Francisco State University 
 - Bubble sort (inefficient)
 - Classes
 - Extending classes with new methods (Array in this case) 
+
+Very short (1 min) video demonstration in RubyMine: https://youtu.be/ebA9Pj675sU
